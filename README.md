@@ -34,7 +34,6 @@ All data come from the official website of Chinese Academy of Engineering. Links
 
 4. Creative Commons:
 
-These datasets are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please cite as: Sixth Tone, "How Faster Trains Draw China’s Cities Ever Closer".
-
+These datasets are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please cite as: Sixth Tone, "The Changing Faces of China's Academicians."
 
 Any questions, please contact: liuchang@sixthtone.com
