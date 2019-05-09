@@ -14,23 +14,23 @@ All data come from the official website of Chinese Academy of Engineering. Links
 
 3. Clarification for some variables
 
-*dual_cat: When the category of engineering management first established, some academicians belong to other categories were given dual-academicianship. And this variable states whether they are also honored as academicians of other categories. ("N" mean single academicianship.)
+* dual_cat: When the category of engineering management first established, some academicians belong to other categories were given dual-academicianship. And this variable states whether they are also honored as academicians of other categories. ("N" mean single academicianship.)
 
-*subarea: The subcategory of the first-level category. It's like the more specific expertise of the academicians.
+* subarea: The subcategory of the first-level category. It's like the more specific expertise of the academicians.
 
-*year_award: The year someone became an engineering management academician.
+* year_award: The year someone became an engineering management academician.
 
-*affiliation: The academician's professional affiliation when he/she became an engineering management academician.
+* affiliation: The academician's professional affiliation when he/she became an engineering management academician.
 
-*affi_type: The nature of the affiliation.
+* affi_type: The nature of the affiliation.
 
-*gov_position: The academician's [civil servant rank](https://en.wikipedia.org/wiki/Civil_Service_of_the_People%27s_Republic_of_China). (One doesn't have to be in the governments to have such a rank in China.) 
+* gov_position: The academician's [civil servant rank](https://en.wikipedia.org/wiki/Civil_Service_of_the_People%27s_Republic_of_China). (One doesn't have to be in the governments to have such a rank in China.) 
 
-*highest_major: The academician's major of his/her highest education level (if not available, the second/third highest education level).
+* highest_major: The academician's major of his/her highest education level (if not available, the second/third highest education level).
 
-*major_project: An important project he/she was involved. Blank doesn't mean that he/she was never involved in an important project.
+* major_project: An important project he/she was involved. Blank doesn't mean that he/she was never involved in an important project.
 
-*other_academician_title: International academician title(s) the academician received. Blank doesn't necessarily mean that he/she doesn't have international academician title(s), it could be that the title(s) is/are not mentioned in the bio on CAE's website.
+* other_academician_title: International academician title(s) the academician received. Blank doesn't necessarily mean that he/she doesn't have international academician title(s), it could be that the title(s) is/are not mentioned in the bio on CAE's website.
 
 4. Creative Commons:
 
