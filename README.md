@@ -1,8 +1,6 @@
 # China_Engineering_Management_Academician
 
-### Documentation and data of "The Changing Faces of China’s Elite Academicians"
-
-Link to be added.
+### Documentation and data of ["The Changing Faces of China’s Elite Academicians"](http://www.sixthtone.com/news/1003955/the-changing-faces-of-chinas-elite-academicians)
 
 1. Data files
 
